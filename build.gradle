@@ -32,6 +32,4 @@ dependencies {
     testCompile("junit:junit")
     testCompile('org.springframework.boot:spring-boot-starter-test')
     testCompile group: 'org.mockito', name: 'mockito-core', version: '2.23.0'
-
-
 }
